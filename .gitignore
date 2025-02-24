@@ -1,0 +1,17 @@
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+
+# Ignore build files
+build/
+*.so
+
+# Ignore notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore environment files
+.env
+venv/
+
+generate_project_structure.sh
+generated_project_structure.txt
